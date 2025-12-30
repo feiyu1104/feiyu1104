@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**feiyu1104/feiyu1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Hello，I am XueFeiyu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to get the most cost-effective option, and I will keep working hard for it.
+
+</div>
+
+---
+
+## ⭐ Selected Projects
+
+
+- [DUTMed](https://github.com/feiyu1104/DUTMed.git) — A multimodal medical AI assistant built on a Neo4j knowledge graph and the Tongyi Qianwen large model.
+- [MathPal_houren](https://github.com/feiyu1104/MathPal_houren.git) — MathPal_houren is an intelligent elementary school math learning assistant built on the LangGraph and Qwen models.
+
+---
+  
+Thanks for visiting! If this page inspires you, feel free to hit Follow 😉
+</div>
