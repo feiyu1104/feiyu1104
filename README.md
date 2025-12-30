@@ -3,7 +3,7 @@
 
 # 👋 Hello，I am XueFeiyu
 
-My goal is to get the most cost-effective option, and I will keep working hard for it.
+My goal is to get the most cost-effective option, 和 I will keep working hard for it.
 
 </div>
 
@@ -16,6 +16,6 @@ My goal is to get the most cost-effective option, and I will keep working hard f
 - [MathPal_houren](https://github.com/feiyu1104/MathPal_houren.git) — MathPal_houren is an intelligent elementary school math learning assistant built on the LangGraph and Qwen models.
 
 ---
-  
+![](https://raw.githubusercontent.com/feiyu1104/feiyu1104/refs/heads/output/github-contribution-grid-snake-dark.svg)
 Thanks for visiting! If this page inspires you, feel free to hit Follow 😉
 </div>
